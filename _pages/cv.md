@@ -60,4 +60,4 @@ redirect_from:
 
 <br>
 
-You can request a copy of my cv at varun.m.singh@gmail.com
+You can request a copy of cv!
