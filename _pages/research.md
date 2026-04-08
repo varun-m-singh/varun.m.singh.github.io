@@ -13,12 +13,4 @@ My other main research agenda uses advanced geotechnical and spatial data to dev
 
 In a related avenue of research, I am bridging the gap between structural and geotechnical engineering by exploring soil settlement predictions using field testing data, gaining insight into accelerated mitigation methods for emergency and disaster-recovery projects.
 
-<nbsp>
 
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
