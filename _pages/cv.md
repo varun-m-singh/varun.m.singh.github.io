@@ -59,5 +59,3 @@ redirect_from:
 * **Certifications:** Asphalt Mix Design Technology & Airfield Paving Clinic (Asphalt Institute, Lexington, KY)
 
 <br>
-
-You can request a copy of cv!
